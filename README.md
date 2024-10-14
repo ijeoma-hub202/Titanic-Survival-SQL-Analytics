@@ -36,44 +36,44 @@ The use of Power BI to transform raw data into interactive visualizations, enabl
 ### Findings
 1. The total passengers onboard the Titanic ship is 1309 consisting of both children and adults.
 2. The total Passengers by class are in this order:
-   Upper class = 323
-   Middle class = 277
-   Lower class = 709
+- Upper class = 323,
+- Middle class = 277,
+- Lower class = 709.
 3. The number of Survivals by passenger class are in the order;
-   Upper class = 136
-   Middle class = 87
-   Lower class = 119
+- Upper class = 136,
+- Middle class = 87,
+- Lower class = 119.
 4. The number of passengers who embarked from each port are;
-   South Hampton = 270
-   Cherbourg = 123
-   Queenstown = 914
-   Null = 2
+- South Hampton = 270,
+- Cherbourg = 123,
+- Queenstown = 914,
+- Null = 2
 5. The average fare paid by each passenger class are;
-   Upper class = 87
-   Middle class = 21
-   Lower class = 13
+- Upper class = 87,
+- Middle class = 21,
+- Lower class = 13.
 6. Passengers with missing embarkation data are 2. The passenger ID of 62 and 830
 
 ### Footnote 
 In the csv file of the dataset, some columns were illustrated with numbers which may prove difficult for the reader to understand.
 - Passenger class:
-  1 = Upper class
-  2 = Middle class
-  3 = Lower class
+1 = Upper class,
+2 = Middle class,
+3 = Lower class.
 
   
 - Survived:
-  0 = Did not survive
-  1 = Survived
+0 = Did not survive,
+1 = Survived.
 
   
 - Sex:
-  0 = Female
-  1 = Male
+0 = Female,
+1 = Male.
 
   
 - Embarked:
-  0 = South Hampton
-  1 = Cherbourg
-  2 = Queenstown 
+0 = South Hampton,
+1 = Cherbourg,
+2 = Queenstown.
 

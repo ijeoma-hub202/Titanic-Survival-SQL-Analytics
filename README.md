@@ -30,4 +30,9 @@ The following questions were raised in course of analysis:
 7. Distribution of ages among survivors and non survivors
 8. Passengers with missing embarkation data
 
-### 
+### Visualization 
+The use of Power BI to transform raw data into interactive visualizations, enabling users to uncover insights.
+
+### Findings
+
+

@@ -56,17 +56,27 @@ The use of Power BI to transform raw data into interactive visualizations, enabl
 
 ### Footnote 
 In the csv file of the dataset, some columns were illustrated with numbers which may prove difficult for the reader to understand.
-- Passenger class
+- Passenger class:
+  
   1 - Upper class
   2 - Middle class
   3 - Lower class
-- Survived
+
+  
+- Survived:
+  
   0 - Did not survive
   1 - Survived
-- Sex
+
+  
+- Sex:
+  
   0 - Female
   1 - Male
-- Embarked
+
+  
+- Embarked:
+  
   0 - South Hampton
   1 - Cherbourg
   2 - Queenstown 
